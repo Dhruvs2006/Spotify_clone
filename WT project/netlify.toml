@@ -1,0 +1,4 @@
+[[redirects]]
+from = "/*"
+to = "/WT_PROJECT.html"
+status = 200
